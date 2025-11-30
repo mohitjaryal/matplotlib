@@ -24,6 +24,7 @@ Each plot is crafted to demonstrate how simple visuals can turn complex numbers 
 - **Python 3**
 - **Matplotlib**
 - **NumPy** (for generating sample data)
+- **Pandas** (for working with datasets and dataframes)
 - **Jupyter Notebook** or any IDE of your choice
 
 ---
